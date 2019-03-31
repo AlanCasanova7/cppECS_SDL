@@ -171,11 +171,11 @@
     <ClCompile Include="Box2D\Dynamics\b2WorldCallbacks.cpp">
       <Filter>Source Files\Box2D</Filter>
     </ClCompile>
-    <ClCompile Include="SDL_Renderer.cpp">
-      <Filter>Source Files\ECS</Filter>
-    </ClCompile>
     <ClCompile Include="Renderer.h">
       <Filter>Header Files\ECS</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Source Files\ECS</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

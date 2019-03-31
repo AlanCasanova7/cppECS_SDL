@@ -167,7 +167,7 @@
     <ClCompile Include="Box2D\Dynamics\Joints\b2WheelJoint.cpp" />
     <ClCompile Include="Box2D\Rope\b2Rope.cpp" />
     <ClCompile Include="Main.cpp" />
-    <ClCompile Include="SDL_Renderer.cpp" />
+    <ClCompile Include="Renderer.cpp" />
     <ClCompile Include="Renderer.h" />
     <ClCompile Include="World.cpp" />
   </ItemGroup>

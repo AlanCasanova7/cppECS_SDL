@@ -33,7 +33,7 @@ namespace ECS
 
 			if (entity >= componentsList.size())
 			{
-				componentsList.resize(componentsList.size() + 1);
+				componentsList.resize(entity + 1);
 			}
 
 			Entities[entity].BitMask.set(T::GetTypeId(), true);
